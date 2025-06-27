@@ -1,0 +1,11 @@
+{
+  "macro": {
+    "name": "BalanceHighlighter",
+    "menu": [
+      {
+        "caption": "Подсчитать баланс и выделить аномалии",
+        "action": "calculateAndHighlight"
+      }
+    ]
+  }
+}
